@@ -36,8 +36,8 @@ namespace Game.UI.Popups
                 _audioPlayer.SetSoundVolume(value);
             }); 
             
-            _ppButton.onClick.AddListener(() => _gameUIContainer.CreatePopup<PrivacyPolicyPopup>());
-            _touButton.onClick.AddListener(() => _gameUIContainer.CreatePopup<TermsOfUsePopup>());
+            //_ppButton.onClick.AddListener(() => _gameUIContainer.CreatePopup<PrivacyPolicyPopup>());
+            //_touButton.onClick.AddListener(() => _gameUIContainer.CreatePopup<TermsOfUsePopup>());
             
             _closeButton.onClick.AddListener(DestroyPopup);
         }
