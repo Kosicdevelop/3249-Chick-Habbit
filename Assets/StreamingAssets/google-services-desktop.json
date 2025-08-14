@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "628126904681",
+    "project_id": "iosor-126",
+    "storage_bucket": "iosor-126.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628126904681:ios:64c959ff98375b3d714df8",
+        "android_client_info": {
+          "package_name": "com.kosicproj.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWOjdP3MHzs-FVJTnQ4_c6JySLlrBT7I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
